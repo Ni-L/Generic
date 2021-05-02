@@ -1,0 +1,7 @@
+C:\Users\Aishwarya\source\repos\GenericDemoTest\GenericDemoTest\bin\Debug\GenericDemoTest.exe.config
+C:\Users\Aishwarya\source\repos\GenericDemoTest\GenericDemoTest\bin\Debug\GenericDemoTest.exe
+C:\Users\Aishwarya\source\repos\GenericDemoTest\GenericDemoTest\bin\Debug\GenericDemoTest.pdb
+C:\Users\Aishwarya\source\repos\GenericDemoTest\GenericDemoTest\obj\Debug\GenericDemoTest.csprojAssemblyReference.cache
+C:\Users\Aishwarya\source\repos\GenericDemoTest\GenericDemoTest\obj\Debug\GenericDemoTest.csproj.CoreCompileInputs.cache
+C:\Users\Aishwarya\source\repos\GenericDemoTest\GenericDemoTest\obj\Debug\GenericDemoTest.exe
+C:\Users\Aishwarya\source\repos\GenericDemoTest\GenericDemoTest\obj\Debug\GenericDemoTest.pdb
