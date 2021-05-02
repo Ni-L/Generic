@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="MaximumGeneric.cs" />
     <Compile Include="MaximumNumber.cs" />
+    <Compile Include="PrintArray.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
