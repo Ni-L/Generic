@@ -1,0 +1,17 @@
+C:\Users\Aishwarya\source\repos\GenericDemoTest\MSTestFindMaxNumber\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Aishwarya\source\repos\GenericDemoTest\MSTestFindMaxNumber\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Aishwarya\source\repos\GenericDemoTest\MSTestFindMaxNumber\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Aishwarya\source\repos\GenericDemoTest\MSTestFindMaxNumber\bin\Debug\MSTestFindMaxNumber.dll
+C:\Users\Aishwarya\source\repos\GenericDemoTest\MSTestFindMaxNumber\bin\Debug\MSTestFindMaxNumber.pdb
+C:\Users\Aishwarya\source\repos\GenericDemoTest\MSTestFindMaxNumber\bin\Debug\GenericDemoTest.exe
+C:\Users\Aishwarya\source\repos\GenericDemoTest\MSTestFindMaxNumber\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Aishwarya\source\repos\GenericDemoTest\MSTestFindMaxNumber\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Aishwarya\source\repos\GenericDemoTest\MSTestFindMaxNumber\bin\Debug\GenericDemoTest.pdb
+C:\Users\Aishwarya\source\repos\GenericDemoTest\MSTestFindMaxNumber\bin\Debug\GenericDemoTest.exe.config
+C:\Users\Aishwarya\source\repos\GenericDemoTest\MSTestFindMaxNumber\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Aishwarya\source\repos\GenericDemoTest\MSTestFindMaxNumber\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Aishwarya\source\repos\GenericDemoTest\MSTestFindMaxNumber\obj\Debug\MSTestFindMaxNumber.csprojAssemblyReference.cache
+C:\Users\Aishwarya\source\repos\GenericDemoTest\MSTestFindMaxNumber\obj\Debug\MSTestFindMaxNumber.csproj.CoreCompileInputs.cache
+C:\Users\Aishwarya\source\repos\GenericDemoTest\MSTestFindMaxNumber\obj\Debug\MSTestFindMaxNumber.csproj.CopyComplete
+C:\Users\Aishwarya\source\repos\GenericDemoTest\MSTestFindMaxNumber\obj\Debug\MSTestFindMaxNumber.dll
+C:\Users\Aishwarya\source\repos\GenericDemoTest\MSTestFindMaxNumber\obj\Debug\MSTestFindMaxNumber.pdb
