@@ -18,7 +18,11 @@ namespace GenericDemoTest
             double output1 = MaximumNumber.MaximumDoubleNumber(20.21, 22.2, 33.00);
             Console.WriteLine(output1);
             Console.ReadLine();
-          
+            Console.WriteLine("Find Maximum String Value");
+            string output2 = MaximumNumber.MaximumStringVAlue("Apple", "Peach", "Banana");
+            Console.WriteLine(output2);
+            Console.ReadLine();
+
         }
 
       
