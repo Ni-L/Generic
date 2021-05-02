@@ -10,22 +10,24 @@ namespace GenericDemoTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("FInd Max Number");
-            int output = MaximumNumber.MaximumIntegerNumber(11,22,33);
-            Console.WriteLine(output);
-            Console.ReadLine();
-            Console.WriteLine("Find Max Double");
-            double output1 = MaximumNumber.MaximumDoubleNumber(20.21, 22.2, 33.00);
-            Console.WriteLine(output1);
-            Console.ReadLine();
-            Console.WriteLine("Find Maximum String Value");
-            string output2 = MaximumNumber.MaximumStringVAlue("Apple", "Peach", "Banana");
-            Console.WriteLine(output2);
+            //Integer array
+            int[] intArray = { 11,22,33,44,55 };
+            MaximumGeneric<int> generic = new MaximumGeneric<int>(intArray);
+            generic.PrintMaxValue();
+
+            //Double array
+            double[] doubleArray = { 11.2, 34.4, 4.32, 55.5, 6.78 };
+            MaximumGeneric<double> genericDouble = new MaximumGeneric<double>(doubleArray);
+            genericDouble.PrintMaxValue();
+
+            //String array
+            string[] stringArray = {"Apple","Peach","Banana" };
+            MaximumGeneric<string> genericString = new MaximumGeneric<string>(stringArray);
+            genericString.PrintMaxValue();
             Console.ReadLine();
 
         }
 
-      
     }
 
 }
